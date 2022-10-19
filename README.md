@@ -2,6 +2,8 @@
 
 **Task:** _Test yourself by wrapping lines at a given number of columns without breaking words._
 
+**Solution by:** [@karinhan](https://github.com/karinhan)
+
 **Note:** My tests in `index.js` file
 
 **Source preview:**
